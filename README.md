@@ -1,56 +1,28 @@
-<div align="center">
+# 💫 About Me:
+<div align="center"><br>  <br># KUSH KAVEH<br>**AI Product Architect & Implementation Lead**<br><br>I build AI systems that work in the real world — and design them so people actually want to use them.*<br><br><br>⬢ The Arc<br>I sit at the intersection of executive vision, human-computer interaction, and engineering reality. With a background originating in architecture and an MSc in Software Engineering (AI Focus), I treat LLMs and agentic workflows as materials to be engineered, not just APIs to be called. <br><br>Currently leading AI product architecture at **ePlanet Brokers**, shipping retrieval-augmented generation (RAG) and autonomous agent systems to **20,000+ active users**. <br><br>## ⬢ Engineering Stack<br><br>AI & Systems<br>  Large Language Models (LLM)` `RAG Architecture` `Agentic Workflows` `Vector Databases` `Python` `PyTorch` `pandas` `numpy`<br><br>Product & Automation<br>  `n8n Workflow Automation` `API Integration` `Next.js` `React` `Node.js`<br><br>Design Engineering<br>  Figma (Tokenized Design Systems)` `UX/UI Architecture` `Human-in-the-loop Design`<br><br><br> ⬢ Production Footprint<br><br> Enterprise AI & Agentic Systems<br>  RAG Financial Market Assistant: Architected an end-to-end retrieval system serving 20k+ users. Engineered for strict hallucination resistance, low latency, and secure financial data access. <br>  Autonomous Operations Mesh:** Built n8n agentic pipelines integrating directly with enterprise CRMs, reducing manual administrative onboarding overhead by ~70%.<br>  Human-in-the-Loop Content Engine:** Engineered generative pipelines allowing marketing teams to scale output under strict compliance boundaries.<br><br> SaaS Product Architecture<br>  Artemis Clinics:** Co-founded and led the full product design lifecycle for an AI-powered health tourism SaaS. <br>  Awards: 🏆 *Bronze A' Design Award 2025 (Software & Technology Design)* | 🏆 *Iron A' Design Award 2024 (Packaging Design)*<br><br><br><br> ⬢ Current Status<br>- 📍 Based in İzmir, Türkiye. <br>- 🎯 Preparing for relocation to Berlin, Germany (Q3/Q4 2026).<br>- 🎓 Finalizing MSc in Software Engineering (Computer Vision / AI Focus).<br>- ✉️ Open to AI PM and AI Implementation Lead roles in the EU ecosystem.
+
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@kushkaveh) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/@kushkaveh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@kushkaveh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@kushkaveh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kushkaveh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@kushkaveh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kushkaveh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@kushkaveh) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/@kushkaveh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@kushkaveh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/@kushkaveh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@kushkaveh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kushkaveh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kushkaveh) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@kushkaveh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@kushkaveh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:@kushkaveh) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KushKaveh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KushKaveh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KushKaveh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KushKaveh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KushKaveh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=KushKaveh&icon=0&color=6)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@kushkaveh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kushkaveh) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/@kushkaveh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/@kushkaveh) 
+
   
-# KUSH KAVEH
-**AI Product Architect & Implementation Lead**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kushkaveh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kushkaveh.com-black?style=for-the-badge)](https://kushkaveh.com)
-[![Location](https://img.shields.io/badge/Location-EU_Blue_Card_Eligible-0052B4?style=for-the-badge)](#)
-
-*I build AI systems that work in the real world — and design them so people actually want to use them.*
-
-</div>
-
-<br/>
-
-## ⬢ The Arc
-I sit at the intersection of executive vision, human-computer interaction, and engineering reality. With a background originating in architecture and an MSc in Software Engineering (AI Focus), I treat LLMs and agentic workflows as materials to be engineered, not just APIs to be called. 
-
-Currently leading AI product architecture at **ePlanet Brokers**, shipping retrieval-augmented generation (RAG) and autonomous agent systems to **20,000+ active users**. 
-
-## ⬢ Engineering Stack
-
-**AI & Systems**
-`Large Language Models (LLM)` `RAG Architecture` `Agentic Workflows` `Vector Databases` `Python` `PyTorch` `pandas` `numpy`
-
-**Product & Automation**
-`n8n` `Workflow Automation` `API Integration` `Next.js` `React` `Node.js`
-
-**Design Engineering**
-`Figma (Tokenized Design Systems)` `UX/UI Architecture` `Human-in-the-loop Design`
-
-<br/>
-
-## ⬢ Production Footprint
-
-### Enterprise AI & Agentic Systems
-* **RAG Financial Market Assistant:** Architected an end-to-end retrieval system serving 20k+ users. Engineered for strict hallucination resistance, low latency, and secure financial data access.
-* **Autonomous Operations Mesh:** Built n8n agentic pipelines integrating directly with enterprise CRMs, reducing manual administrative onboarding overhead by ~70%.
-* **Human-in-the-Loop Content Engine:** Engineered generative pipelines allowing marketing teams to scale output under strict compliance boundaries.
-
-### SaaS Product Architecture
-* **Artemis Clinics:** Co-founded and led the full product design lifecycle for an AI-powered health tourism SaaS. 
-* **Awards:** 🏆 *Bronze A' Design Award 2025 (Software & Technology Design)* | 🏆 *Iron A' Design Award 2024 (Packaging Design)*
-
-<br/>
-
-## ⬢ Current Status
-- 📍 Based in İzmir, Türkiye. 
-- 🎯 Preparing for relocation to Berlin, Germany (Q3/Q4 2026).
-- 🎓 Finalizing MSc in Software Engineering (Computer Vision / AI Focus).
-- ✉️ Open to AI PM and AI Implementation Lead roles in the EU ecosystem.
-
-<div align="center">
-  <br/>
-  <i>"Most AI fails not because of the technology, but because nobody owned both the engineering and the experience. I own both."</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
