@@ -405,22 +405,26 @@ Human Review Layer
 Production Feedback
       ↓
 Iteration
----
----
+```
 
 This is the loop I care about.
 
-A model alone is not a product.
-A chatbot alone is not a strategy.
-A workflow without adoption is not automation.
-A beautiful interface without system logic is decoration.
+A model alone is not a product.  
+A chatbot alone is not a strategy.  
+A workflow without adoption is not automation.  
+A beautiful interface without system logic is decoration.  
 
 The best AI products connect all of it.
 
-Current Focus
+---
+
+## Current Focus
+
+```yaml
 role: AI Product Engineer & Design Systems Lead
 location: İzmir, Turkey
 target_market: Berlin, Germany / EU
+
 focus:
   - Production LLM systems
   - RAG architecture
@@ -443,31 +447,71 @@ open_to:
   - AI Product Engineer roles
   - Forward-deployed AI engineering roles
   - Select AI systems consulting
-GitHub Activity
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=kushkaveh&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkaveh&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=333333" /> </div> <div align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkaveh&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Graph" /> </div>
-Featured Direction
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kushkaveh&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&count_private=true" alt="Kush Kaveh GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkaveh&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=333333" alt="Most used languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkaveh&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+
+</div>
+
+---
+
+## Direction
 
 I am building toward a career at the intersection of:
 
+```txt
 AI Systems
 Product Leadership
 Design Engineering
 Business Automation
 European AI Implementation
+```
 
-The goal is not to simply “use AI.”
+The goal is not to simply use AI.
 
 The goal is to build AI products that create measurable value, reduce operational waste, improve decision-making, and remain usable by real people inside real organizations.
 
-Contact
+---
+
+## Contact
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushkaveh)
+[![Website](https://img.shields.io/badge/kushkaveh.com-0f0f0f?style=for-the-badge&logo=safari&logoColor=white)](https://kushkaveh.com)
+[![Email](https://img.shields.io/badge/hello@kushkaveh.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kushkaveh.com)
+[![Behance](https://img.shields.io/badge/Behance-0f0f0f?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kushkaveh)
 
+</div>
 
+---
 
+<div align="center">
 
+### Architecture → UX → Product → AI Systems
 
+<sub>Built with clarity, structure, and production reality.</sub>
 
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kushkaveh&style=flat-square&color=111111&label=Profile+Views" alt="Profile views" />
 
 </div>
 <div align="center">
