@@ -137,6 +137,51 @@ Most AI projects fail because the business goal, user need, data reality, and en
 </table>
 
 ---
+---
+
+## Technical Stack
+
+### AI Models, LLMs & Agentic Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-111111?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=flat-square&logo=perplexity&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-111111?style=flat-square&logo=mistralai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=white)
+
+### AI Engineering, Data & Automation
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-111111?style=flat-square&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square&logo=sparkfun&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Product Engineering
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+
+### Design & Product Systems
+
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-111111?style=flat-square&logo=storybook&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-111111?style=flat-square&logo=framer&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-111111?style=flat-square&logo=adobecreativecloud&logoColor=white)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-111111?style=flat-square&logo=linear&logoColor=white)
+---
 
 ## Current Role
 
@@ -335,36 +380,6 @@ AI products need more than prompts.
 They need architecture, UX, data boundaries, workflow logic, and operational discipline.
 
 That is the space I work in.
-
----
-
-## Technical Stack
-
-### AI, Data & Automation
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
-
-### Product Engineering
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-
-### Design & Product Systems
-
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-111111?style=flat-square&logo=framer&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-111111?style=flat-square&logo=adobecreativecloud&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
