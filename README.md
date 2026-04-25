@@ -11,10 +11,10 @@ and design them so people can actually trust, understand, and use them.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushkaveh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kush-kaveh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=safari&logoColor=white)](https://kushkaveh.com)
 [![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kushkaveh.com)
-[![Behance](https://img.shields.io/badge/Behance-0f0f0f?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kushkaveh)
+[![Behance](https://img.shields.io/badge/Behance-0f0f0f?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kushkavehdesigns)
 
 <br/>
 
