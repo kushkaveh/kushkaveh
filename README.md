@@ -136,7 +136,7 @@ Most AI projects fail because the business goal, user need, data reality, and en
 </tr>
 </table>
 
----
+
 ---
 
 ## Technical Stack
@@ -181,6 +181,8 @@ Most AI projects fail because the business goal, user need, data reality, and en
 ![Framer](https://img.shields.io/badge/Framer-111111?style=flat-square&logo=framer&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-111111?style=flat-square&logo=adobecreativecloud&logoColor=white)
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-111111?style=flat-square&logo=linear&logoColor=white)
+
+
 ---
 
 ## Current Role
