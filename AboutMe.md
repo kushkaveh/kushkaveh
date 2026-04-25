@@ -6,7 +6,7 @@
 
 ### AI Product Engineer · AI Systems Architect · Design Systems Lead
 
-I build production AI systems for real businesses —  
+I build production AI systems for real businesses  
 and design them so people can actually trust, understand, and use them.
 
 <br/>
@@ -249,9 +249,9 @@ Co-founded and helped operate an AI-powered product studio focused on healthtech
 
 Built and contributed to:
 
-- **Artemis Clinics** — AI-powered health tourism platform  
-- **NexaPortal CRM** — enterprise CRM for health tourism operations  
-- **Neoclio** — creative and digital product services studio  
+- **Artemis Clinics** : AI-powered health tourism platform  
+- **NexaPortal CRM** : enterprise CRM for health tourism operations  
+- **Neoclio** : creative and digital product services studio  
 
 At peak, the studio worked with a **12-person team** across design, development, marketing, and operations.
 
