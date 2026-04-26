@@ -183,61 +183,6 @@ Most AI projects fail because the business goal, user need, data reality, and en
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-111111?style=flat-square&logo=linear&logoColor=white)
 
 
----
-
-## Current Role
-
-### AI Product Engineer & Design Systems Lead  
-**ePlanet Brokers · Istanbul / Hybrid · 2025 – Present**
-
-At ePlanet, I work at the intersection of **AI strategy, product execution, engineering coordination, and design systems**.
-
-The platform serves more than **20,000 active users**, which means every AI feature must be practical, reliable, and aligned with real operational constraints.
-
-### Main Workstreams
-
-#### RAG-Powered Financial Intelligence
-
-Designed and shipped a retrieval-augmented financial assistant for users who need access to structured market information through a conversational interface.
-
-The system was designed around:
-
-- Retrieval quality  
-- Hallucination resistance  
-- Financial content boundaries  
-- User trust  
-- Low-friction UX  
-- Compliance-aware responses  
-- Production usability  
-
-#### Autonomous Operations Mesh
-
-Designed agentic workflows connected to internal CRM operations.
-
-The goal was to reduce repetitive manual work across onboarding, eligibility checks, and internal response flows.
-
-Result:
-
-> Around **70% reduction in manual administrative overhead** across targeted workflows.
-
-#### Human-in-the-Loop AI Content Engine
-
-Designed an AI-powered content pipeline for market news and analysis.
-
-The system supports content generation while keeping human review, editorial quality, and compliance control inside the workflow.
-
-#### Tokenized Product Design System
-
-Leading design system modernization across product surfaces, including:
-
-- Trading platform  
-- CRM interfaces  
-- Mobile app  
-- Marketing website  
-- AI product interfaces  
-
-The goal is to create a consistent product language as the AI suite expands.
-
 
 ---
 
@@ -268,41 +213,6 @@ AI products need more than prompts.
 They need architecture, UX, data boundaries, workflow logic, and operational discipline.
 
 That is the space I work in.
-
----
-
-## How I Think About AI Products
-
-```txt
-Business Problem
-      ↓
-Workflow Reality
-      ↓
-User Behavior
-      ↓
-Data Availability
-      ↓
-AI System Design
-      ↓
-Interface Design
-      ↓
-Human Review Layer
-      ↓
-Production Feedback
-      ↓
-Iteration
-```
-
-This is the loop I care about.
-
-A model alone is not a product.  
-A chatbot alone is not a strategy.  
-A workflow without adoption is not automation.  
-A beautiful interface without system logic is decoration.  
-
-The best AI products connect all of it.
-
----
 
 ---
 
