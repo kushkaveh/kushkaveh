@@ -44,9 +44,7 @@ My work combines:
 - Business process redesign  
 - AI implementation strategy  
 
-Before ePlanet, I co-founded **NexaPortal Group**, an AI product studio where I helped build **three products**, worked with a **12-person team**, and shipped award-winning digital products in healthtech, CRM, and brand systems.
-
-I am currently based in **İzmir, Turkey**, and targeting **Berlin, Germany** for the next chapter of my career.
+Before eplanet, I co-founded **NexaPortal Group**, an AI product studio where I helped build **three products**, worked with a **12-person team**, and shipped award-winning digital products in healthtech, CRM, and brand systems.
 
 ---
 
