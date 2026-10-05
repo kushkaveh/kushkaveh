@@ -1,24 +1,12 @@
 <div align="center">
 
-<!-- MAIN TITLE -->
-
 # Kush Kaveh
 
-### AI Product Engineer · AI Systems Architect · Design Systems Lead
+### Multidisciplinary builder across AI, product, design & systems.
 
-I build production AI systems for real businesses  
-and design them so people can actually trust, understand, and use them.
+**I work the whole problem — from idea and architecture to interface and implementation.**
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kush-kaveh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=safari&logoColor=white)](https://kushkaveh.com)
-[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kushkaveh.com)
-[![Behance](https://img.shields.io/badge/Behance-0f0f0f?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kushkavehdesigns)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=900&lines=AI+Product+Engineer+building+production+LLM+systems;RAG+%C2%B7+Agentic+Workflows+%C2%B7+Human-in-the-Loop+AI;Design+systems+for+AI-powered+products;Architecture+%E2%86%92+UX+%E2%86%92+Product+%E2%86%92+AI+Systems" alt="Typing animation" />
+[Website](https://kushkaveh.com) · [LinkedIn](https://linkedin.com/in/kush-kaveh) · [Email](mailto:hello@kushkaveh.com)
 
 </div>
 
@@ -26,260 +14,46 @@ and design them so people can actually trust, understand, and use them.
 
 ## About
 
-I am an **AI Product Engineer** working across **LLM systems, product architecture, workflow automation, and design systems**.
+I build intelligent products, systems, and digital experiences.
 
-My background started in **architecture**, moved through **brand and UX design**, then into **AI product engineering**. That path shaped how I think: every product is a system, every system has human behavior inside it, and every AI feature needs to earn trust before it creates value.
+My background started in design and expanded through UX, product, engineering, business, and AI. I’m interested in what happens when those disciplines stop being treated as separate problems.
 
-Currently, I work at **ePlanet Brokers**, where I help turn executive AI strategy into production systems for a live fintech platform with **20,000+ active users**.
+Today, I work across **AI systems, product engineering, design systems, automation, and organizational workflows** — usually taking ideas from ambiguity to something real, useful, and shipped.
 
-My work combines:
-
-- AI system architecture  
-- RAG pipelines  
-- Agentic workflows  
-- CRM-connected automation  
-- Human-in-the-loop content systems  
-- Product UX  
-- Figma design systems  
-- Business process redesign  
-- AI implementation strategy  
-
-Before eplanet, I co-founded **NexaPortal Group**, an AI product studio where I helped build **three products**, worked with a **12-person team**, and shipped award-winning digital products in healthtech, CRM, and brand systems.
+**Clear thinking. Strong craft. No AI theater.**
 
 ---
 
-## What I Actually Do
+## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Atlas**
+AI company brain for organizational knowledge, documents, retrieval, workflows, and internal intelligence.
 
-### AI Product Architecture
+**AI Copilot**
+AI-assisted market analysis built around live data, trader context, strategy, and personalized reasoning.
 
-I design how AI products should work before they are built.
+**Brand Portal**
+Multi-brand design infrastructure for assets, guidelines, systems, typography, photography, and brand governance.
 
-This includes system flows, product logic, AI boundaries, user journeys, data access patterns, and the connection between business requirements and engineering execution.
-
-**Focus areas**
-
-- LLM product architecture  
-- RAG system design  
-- AI feature scoping  
-- AI implementation planning  
-- Product requirements  
-- System diagrams  
-- Human-in-the-loop logic  
-
-</td>
-<td width="50%" valign="top">
-
-### Production AI Systems
-
-I work on AI systems that need to survive real users, real workflows, and real business constraints.
-
-Not demos. Not toy chatbots. Systems with compliance concerns, operational needs, and measurable business impact.
-
-**Focus areas**
-
-- Retrieval-augmented generation  
-- Agentic workflows  
-- CRM-connected automation  
-- Prompt systems  
-- Workflow orchestration  
-- AI content pipelines  
-- Reliability and guardrails  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Design Systems
-
-I build design systems that help products scale.
-
-My design background is not separate from my AI work. It is the part that helps AI products become usable, consistent, and trusted.
-
-**Focus areas**
-
-- Figma token systems  
-- Product UI architecture  
-- Component libraries  
-- Design-to-dev handoff  
-- Accessibility  
-- Interaction patterns  
-- Scalable visual systems  
-
-</td>
-<td width="50%" valign="top">
-
-### AI Implementation Leadership
-
-I translate between founders, executives, designers, engineers, and business teams.
-
-Most AI projects fail because the business goal, user need, data reality, and engineering approach are not aligned. My work is to connect those layers.
-
-**Focus areas**
-
-- AI roadmap planning  
-- Stakeholder alignment  
-- Product strategy  
-- Workflow analysis  
-- Team coordination  
-- EU AI readiness  
-- Business value mapping  
-
-</td>
-</tr>
-</table>
-
+**AI Studio**
+Structured AI content platform with prompt systems, roles, permissions, dynamic tone, and reusable workflows.
 
 ---
 
-## Technical Stack
+## Working Across
 
-### AI Models, LLMs & Agentic Systems
+`AI Systems` · `Product Engineering` · `Design Systems` · `Creative Technology` · `Business Systems`
 
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-111111?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=flat-square&logo=perplexity&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-111111?style=flat-square&logo=mistralai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=white)
-
-### AI Engineering, Data & Automation
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-111111?style=flat-square&logo=databricks&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-111111?style=flat-square&logo=postgresql&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square&logo=sparkfun&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Product Engineering
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-
-### Design & Product Systems
-
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-111111?style=flat-square&logo=storybook&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-111111?style=flat-square&logo=framer&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-111111?style=flat-square&logo=adobecreativecloud&logoColor=white)
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-111111?style=flat-square&logo=linear&logoColor=white)
-
-
+**Next.js · React · TypeScript · Python · PostgreSQL · RAG · LLM Systems · Figma**
 
 ---
 
 ## Recognition
 
-| Award | Project | Category | Year |
-|---|---|---:|---:|
-| **A' Design Award Bronze** | Artemis Clinics | Mobile Technologies & Software Design | 2025 |
-| **A' Design Award Iron** | Quiksip | Packaging Design | 2024 |
+**2× A' Design Award**
+Bronze — Artemis Clinics
+Iron — Quiksip
 
 ---
 
-## My Product Philosophy
-
-I believe the next generation of valuable AI products will not be won by whoever adds the most AI features.
-
-They will be won by teams that understand:
-
-1. What the user actually needs  
-2. What the business workflow actually requires  
-3. What the data can actually support  
-4. What the model can and cannot safely do  
-5. Where humans must remain in control  
-6. How trust is designed into the interface  
-
-AI products need more than prompts.
-
-They need architecture, UX, data boundaries, workflow logic, and operational discipline.
-
-That is the space I work in.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kushkaveh&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&count_private=true" alt="Kush Kaveh GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkaveh&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=333333" alt="Most used languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkaveh&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-
-</div>
-
----
-
-## Direction
-
-I am building toward a career at the intersection of:
-
-```txt
-AI Systems
-Product Leadership
-Design Engineering
-Business Automation
-European AI Implementation
-```
-
-The goal is not to simply use AI.
-
-The goal is to build AI products that create measurable value, reduce operational waste, improve decision-making, and remain usable by real people inside real organizations.
-
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushkaveh)
-[![Website](https://img.shields.io/badge/kushkaveh.com-0f0f0f?style=for-the-badge&logo=safari&logoColor=white)](https://kushkaveh.com)
-[![Email](https://img.shields.io/badge/hello@kushkaveh.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kushkaveh.com)
-[![Behance](https://img.shields.io/badge/Behance-0f0f0f?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kushkaveh)
-
-</div>
-
----
-
-<div align="center">
-
-### Architecture → UX → Product → AI Systems
-
-<sub>Built with clarity, structure, and production reality.</sub>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kushkaveh&style=flat-square&color=111111&label=Profile+Views" alt="Profile views" />
-
-</div>
-<div align="center">
-Architecture → UX → Product → AI Systems
-
-<sub>Built with clarity, structure, and production reality.</sub>
-
-<br/> <br/> <img src="https://komarev.com/ghpvc/?username=kushkaveh&style=flat-square&color=111111&label=Profile+Views" alt="Profile views" /> </div> ```
+> **Work the whole problem. Build the alternative.**
